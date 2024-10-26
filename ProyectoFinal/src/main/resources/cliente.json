@@ -1,0 +1,35 @@
+[ {
+  "nit" : "9638240-6",
+  "nombre" : "Walter Ramos",
+  "direccion" : "8av 37-24 zona 8",
+  "telefono" : "5511-2930",
+  "pedidos" : [ {
+    "idPedido" : 81,
+    "fecha" : 1729867828709,
+    "estado" : "CREADO",
+    "nit" : "9638240-6",
+    "productos" : [ {
+      "idProducto" : 291,
+      "nombre" : "Laptop HP 445 G8",
+      "cantidad" : 10,
+      "estado" : "Importado"
+    } ]
+  } ]
+}, {
+  "nit" : "293908-5",
+  "nombre" : "Yair Carreto",
+  "direccion" : "10 calle 20-30 zona 3",
+  "telefono" : "3567-0010",
+  "pedidos" : [ {
+    "idPedido" : 22,
+    "fecha" : 1729867992201,
+    "estado" : "CREADO",
+    "nit" : "293908-5",
+    "productos" : [ {
+      "idProducto" : 781,
+      "nombre" : "Tablet de 10' Samsung",
+      "cantidad" : 2,
+      "estado" : "Importado"
+    } ]
+  } ]
+} ]

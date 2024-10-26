@@ -1,0 +1,11 @@
+[ {
+  "idProducto" : 781,
+  "nombre" : "Tablet de 10' Samsung",
+  "cantidad" : 29,
+  "estado" : "Importado"
+}, {
+  "idProducto" : 291,
+  "nombre" : "Laptop HP 445 G8",
+  "cantidad" : 50,
+  "estado" : "Importado"
+} ]
